@@ -114,6 +114,8 @@ print(tuple1.count(10))
 
 print(tuple1)
 
+# Set
+
 # Defining a set
 # A set is always ordered and cannot contain duplicate items
 set1 = {1, 2, 4}
